@@ -20,7 +20,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning new features in programming, liek deployng, connection of the back with the front and deepen general knowledge
+  📚 I’m currently learning new features in programming, like deployment(CI/CD, Docker, Vercel, Render), testing(Unit Testing with Jest & React Testing Library), studying Feature-Sliced Design (FSD) architectural methodology, improve my knowlege in Typescript and Tailwind CSS.
   <br>
   📫 How to reach me: <a href="mailto: vladyslavshevchuk2007.com">vladyslavshevchuk2007@gmail.com</a>
 </p>
