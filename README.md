@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/vladyslav-shevchuk-25620535b" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"> LinkedIn</a></code>
-  <code><a href="https://t.me/Autishnick" title="Telegram Profile"><img width="22" src="https://cdn.simpleicons.org/telegram?style=svg&logoColor=white"> Telegram</a></code>
+  <code><a href="https://t.me/W_ladysla_W" title="Telegram Profile"><img width="22" src="https://cdn.simpleicons.org/telegram?style=svg&logoColor=white"> Telegram</a></code>
   <code><a href="mailto:vladyslavshevchuk2007.com" title="Send Email"><img width="22" src="https://cdn.simpleicons.org/gmail?style=svg&logoColor=white"> Email</a></code>
 </h5>
 <br>
